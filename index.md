@@ -11,3 +11,7 @@ Estoy agregando una imagen de ejemplo para esta actividad.
 ```python
 print("Hola, Markdown!")
 
+
+- [x] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [x] Introduce myself to the world
