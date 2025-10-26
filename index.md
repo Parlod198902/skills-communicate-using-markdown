@@ -16,4 +16,3 @@ Estoy agregando una imagen de ejemplo para esta actividad.
 print("Hola, Markdown!")
 ```
 
-
