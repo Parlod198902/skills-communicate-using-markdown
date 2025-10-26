@@ -12,7 +12,4 @@ Estoy agregando una imagen de ejemplo para esta actividad.
 - [ ] This item is not complete
 
 
-```python
-print("Hola, Markdown!")
-```
 
