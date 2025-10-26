@@ -1,5 +1,7 @@
 # ¡Hola, soy Iván Gamboa!
 
-## Bienvenido a mi archivo de práctica en Markdown
+## Aprendiendo Markdown en GitHub 🚀
 
-Aprendiendo a usar encabezados, listas y más en GitHub 🚀
+Estoy agregando una imagen de ejemplo para esta actividad.
+
+![Logo de GitHub](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
