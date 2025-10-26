@@ -14,5 +14,6 @@ Estoy agregando una imagen de ejemplo para esta actividad.
 
 ```python
 print("Hola, Markdown!")
+```
 
 
