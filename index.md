@@ -16,3 +16,8 @@ Estoy agregando una imagen de ejemplo para esta actividad.
 print("Hola, Markdown!")
 ```
 
+
+```bash
+# Ejemplo de comando de terminal
+echo "Hola desde la terminal"
+```
